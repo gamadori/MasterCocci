@@ -1,0 +1,49 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Project_Settings/Debugger/MC56F84451.mem" FileDate="2016-11-11, 22:10:44" FileAge="1478898644296" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/SM1.h" FileDate="2016-11-14, 19:54:25" FileAge="1479149665423" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/TI1.h" FileDate="2016-11-11, 22:17:09" FileAge="1478899029866" FileType="45637" CompNumb="14" />
+      <File Name="Project_Settings/Linker_Files/FLASH_SDM.cmd" FileDate="2016-11-11, 22:10:52" FileAge="1478898652020" FileType="8" CompNumb="2" />
+      <File Name="Sources/main.c" FileDate="2016-11-15, 00:08:36" FileAge="1479164916854" FileType="128" />
+      <File Name="Generated_Code/SM1.c" FileDate="2016-11-14, 19:54:25" FileAge="1479149665422" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2016-11-14, 19:55:13" FileAge="1479149713396" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/TI1.c" FileDate="2016-11-11, 22:17:09" FileAge="1478899029864" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/CAN1.h" FileDate="2016-11-11, 22:15:26" FileAge="1478898926118" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-11-11, 22:10:52" FileAge="1478898652032" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-11-14, 19:55:13" FileAge="1479149713389" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-11-11, 22:10:52" FileAge="1478898652035" FileType="45637" />
+      <File Name="Generated_Code/CAN1.c" FileDate="2016-11-11, 22:15:26" FileAge="1478898926116" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-11-14, 19:55:13" FileAge="1479149713393" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/CSInput.h" FileDate="2016-11-14, 19:55:13" FileAge="1479149713371" FileType="45637" CompNumb="22" />
+      <File Name="Project_Settings/Startup_Code/56F83x_init.asm" FileDate="2016-11-11, 22:10:51" FileAge="1478898651952" FileType="16384" CompNumb="2" />
+      <File Name="Sources/Events.h" FileDate="2016-11-14, 19:55:13" FileAge="1479149713400" FileType="131328" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2016-11-11, 22:10:52" FileAge="1478898652011" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/CocciMaster_Settings.xml" FileDate="2016-11-14, 19:55:13" FileAge="1479149713466" FileType="3072" />
+      <File Name="Generated_Code/CSInput.c" FileDate="2016-11-14, 19:55:13" FileAge="1479149713370" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-11-11, 22:10:52" FileAge="1478898652040" FileType="45637" />
+      <File Name="Documentation/CocciMaster.txt" FileDate="2016-11-14, 19:55:13" FileAge="1479149713477" FileType="3072" />
+      <File Name="Documentation/doxygen/CocciMaster.txt" FileDate="2016-11-11, 22:10:52" FileAge="1478898652014" FileType="45637" CompNumb="2" />
+      <File Name="Sources/Events.c" FileDate="2016-11-14, 19:54:25" FileAge="1479149665453" FileType="131328" />
+      <File Name="Generated_Code/CSOutput.h" FileDate="2016-11-14, 19:55:13" FileAge="1479149713374" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-11-11, 22:10:52" FileAge="1478898652038" FileType="45637" />
+      <File Name="Generated_Code/CSOutput.c" FileDate="2016-11-14, 19:55:13" FileAge="1479149713373" FileType="45637" CompNumb="21" />
+      <File Name="Documentation/CocciMaster_SIGNALS.txt" FileDate="2016-11-15, 00:08:41" FileAge="1479164921047" FileType="3072" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2016-11-11, 22:10:52" FileAge="1478898652009" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/assert.h" FileDate="2016-11-11, 22:10:52" FileAge="1478898652042" FileType="45637" />
+      <File Name="Generated_Code/AS1.h" FileDate="2016-11-14, 19:24:14" FileAge="1479147854071" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/AS1.c" FileDate="2016-11-14, 19:24:14" FileAge="1479147854077" FileType="45637" CompNumb="11" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2016-11-11, 22:10:51" FileAge="1478898651880" FileType="16384" CompNumb="2" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>11</CodeGenReference>
+</CodeGenerationInfo>

@@ -1,0 +1,35 @@
+"./Generated_Code/Vectors_c.obj"
+"./Generated_Code/TI1_c.obj"
+"./Generated_Code/SM1_c.obj"
+"./Generated_Code/Cpu_c.obj"
+"./Generated_Code/CSOutput_c.obj"
+"./Generated_Code/CSInput_c.obj"
+"./Generated_Code/CAN1_c.obj"
+"./Generated_Code/AS1_c.obj"
+"./Project_Settings/Startup_Code/56F83x_init_asm.obj"
+"./Sources/main_c.obj"
+"./Sources/Utility_c.obj"
+"./Sources/Timer_c.obj"
+"./Sources/Serial_c.obj"
+"./Sources/SDO_c.obj"
+"./Sources/Plc_c.obj"
+"./Sources/PDO_c.obj"
+"./Sources/NMT_c.obj"
+"./Sources/Events_c.obj"
+"./Sources/CanObjects_c.obj"
+"./Sources/CanFifo_c.obj"
+"./Sources/CanDic_c.obj"
+"./Sources/CANOpen_c.obj"
+"./Sources/CAN_c.obj"
+"./Sources/Bits_c.obj"
+"./Sources/Alfacol_c.obj"
+-msgstyle parseable
+-g
+-nostdlib
+"$(ProjDirPath)/Project_Settings/Linker_Files/FLASH_SDM.cmd"
+-main F_EntryPoint
+-L"$(MCUToolsBaseDirEnv)/M56800E Support/msl/MSL_C/DSP_56800E/lib"
+-v3
+-map 
+-l${VALUE}"$(MCUToolsBaseDirEnv)/M56800E Support/runtime_56800E/lib/runtime 56800E smm.lib"
+-l${VALUE}"$(MCUToolsBaseDirEnv)/M56800E Support/msl/MSL_C/DSP_56800E/lib/MSL C 56800E smm.lib"
